@@ -1,0 +1,422 @@
+ 2024-08-16 09:31:04,138 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is started
+ 2024-08-16 09:31:04,140 : INFO : test_BankApp_Url_001 : Opening Browser
+ 2024-08-16 09:31:04,140 : INFO : test_BankApp_Url_001 : Checking the title
+ 2024-08-16 09:31:04,157 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is Passed
+ 2024-08-16 09:31:04,158 : INFO : test_BankApp_Url_001 : Taking Screenshot
+ 2024-08-16 09:31:04,447 : INFO : test_BankApp_Url_001 : Testcase test_Login_001 is completed
+
+ 2024-08-16 09:31:14,539 : INFO : test_Signup_002 : test_Signup_002 is Started
+ 2024-08-16 09:31:14,541 : INFO : test_Signup_002 : Opening browser
+ 2024-08-16 09:31:14,541 : INFO : test_Signup_002 : Click on signup link
+ 2024-08-16 09:31:15,412 : INFO : test_Signup_002 : Enter Username
+ 2024-08-16 09:31:15,891 : INFO : test_Signup_002 : Enter Password
+ 2024-08-16 09:31:16,043 : INFO : test_Signup_002 : Enter email
+ 2024-08-16 09:31:16,333 : INFO : test_Signup_002 : Enter phone number
+ 2024-08-16 09:31:16,552 : INFO : test_Signup_002 : Click create user
+ 2024-08-16 09:31:22,731 : INFO : test_Signup_002 : Validate user creation is done successfully
+ 2024-08-16 09:31:27,776 : INFO : test_Signup_002 : test_Signup_002 is failed
+ 2024-08-16 09:31:28,422 : INFO : test_Signup_002 : Testcase test_Login_002 is completed
+
+ 2024-08-16 09:31:44,810 : INFO : test_Login_003 : Testcase test_Login_003 is started
+ 2024-08-16 09:31:44,811 : INFO : test_Login_003 : Opening browser
+ 2024-08-16 09:31:44,811 : INFO : test_Login_003 : Click on Login link
+ 2024-08-16 09:31:46,182 : INFO : test_Login_003 : Entering the username
+ 2024-08-16 09:31:46,398 : INFO : test_Login_003 : Entering the password
+ 2024-08-16 09:31:46,550 : INFO : test_Login_003 : Click on login button
+ 2024-08-16 09:31:50,111 : INFO : test_Login_003 : Checking the page title
+ 2024-08-16 09:31:50,124 : INFO : test_Login_003 : Testcase test_Login_003 is passed
+ 2024-08-16 09:31:50,124 : INFO : test_Login_003 : Taking screenshot
+ 2024-08-16 09:31:50,348 : INFO : test_Login_003 : Testcase test_Login_003 is completed
+
+ 2024-08-16 14:29:28,841 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is started
+ 2024-08-16 14:29:28,842 : INFO : test_BankApp_Url_001 : Opening Browser
+ 2024-08-16 14:29:28,842 : INFO : test_BankApp_Url_001 : Checking the title
+ 2024-08-16 14:29:28,855 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is Passed
+ 2024-08-16 14:29:28,855 : INFO : test_BankApp_Url_001 : Taking Screenshot
+ 2024-08-16 14:29:29,004 : INFO : test_BankApp_Url_001 : Testcase test_Login_001 is completed
+
+ 2024-08-16 14:29:34,639 : INFO : test_Signup_002 : test_Signup_002 is Started
+ 2024-08-16 14:29:34,639 : INFO : test_Signup_002 : Opening browser
+ 2024-08-16 14:29:34,639 : INFO : test_Signup_002 : Click on signup link
+ 2024-08-16 14:29:35,702 : INFO : test_Signup_002 : Enter Username
+ 2024-08-16 14:29:35,933 : INFO : test_Signup_002 : Enter Password
+ 2024-08-16 14:29:36,063 : INFO : test_Signup_002 : Enter email
+ 2024-08-16 14:29:36,218 : INFO : test_Signup_002 : Enter phone number
+ 2024-08-16 14:29:36,420 : INFO : test_Signup_002 : Click create user
+ 2024-08-16 14:29:42,268 : INFO : test_Signup_002 : Validate user creation is done successfully
+ 2024-08-16 14:29:42,327 : INFO : test_Signup_002 : test_Signup_002 is passed
+ 2024-08-16 14:29:42,327 : INFO : test_Signup_002 : Taking screenshot
+ 2024-08-16 14:29:42,462 : INFO : test_Signup_002 : Testcase test_Login_002 is completed
+
+ 2024-08-16 14:29:49,487 : INFO : test_Login_003 : Testcase test_Login_003 is started
+ 2024-08-16 14:29:49,487 : INFO : test_Login_003 : Opening browser
+ 2024-08-16 14:29:49,488 : INFO : test_Login_003 : Click on Login link
+ 2024-08-16 14:29:49,988 : INFO : test_Login_003 : Entering the username
+ 2024-08-16 14:29:50,166 : INFO : test_Login_003 : Entering the password
+ 2024-08-16 14:29:50,324 : INFO : test_Login_003 : Click on login button
+ 2024-08-16 14:29:51,455 : INFO : test_Login_003 : Checking the page title
+ 2024-08-16 14:29:51,477 : INFO : test_Login_003 : Testcase test_Login_003 is passed
+ 2024-08-16 14:29:51,477 : INFO : test_Login_003 : Taking screenshot
+ 2024-08-16 14:29:51,656 : INFO : test_Login_003 : Testcase test_Login_003 is completed
+
+ 2024-08-16 14:35:09,075 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is started
+ 2024-08-16 14:35:09,076 : INFO : test_BankApp_Url_001 : Opening Browser
+ 2024-08-16 14:35:09,076 : INFO : test_BankApp_Url_001 : Checking the title
+ 2024-08-16 14:35:09,082 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is Passed
+ 2024-08-16 14:35:09,083 : INFO : test_BankApp_Url_001 : Taking Screenshot
+ 2024-08-16 14:35:09,506 : INFO : test_BankApp_Url_001 : Testcase test_Login_001 is completed
+
+ 2024-08-16 14:36:31,647 : INFO : test_Signup_002 : test_Signup_002 is Started
+ 2024-08-16 14:36:31,647 : INFO : test_Signup_002 : Opening browser
+ 2024-08-16 14:36:31,647 : INFO : test_Signup_002 : Click on signup link
+ 2024-08-16 14:36:32,649 : INFO : test_Signup_002 : Enter Username
+ 2024-08-16 14:36:33,132 : INFO : test_Signup_002 : Enter Password
+ 2024-08-16 14:36:33,264 : INFO : test_Signup_002 : Enter email
+ 2024-08-16 14:36:33,365 : INFO : test_Signup_002 : Enter phone number
+ 2024-08-16 14:36:33,406 : INFO : test_Signup_002 : Click create user
+ 2024-08-16 14:36:50,499 : INFO : test_Login_003 : Testcase test_Login_003 is started
+ 2024-08-16 14:36:50,501 : INFO : test_Login_003 : Opening browser
+ 2024-08-16 14:36:50,502 : INFO : test_Login_003 : Click on Login link
+ 2024-08-16 14:36:51,585 : INFO : test_Login_003 : Entering the username
+ 2024-08-16 14:36:51,853 : INFO : test_Login_003 : Entering the password
+ 2024-08-16 14:36:52,045 : INFO : test_Login_003 : Click on login button
+ 2024-08-16 14:36:53,251 : INFO : test_Login_003 : Checking the page title
+ 2024-08-16 14:36:53,257 : INFO : test_Login_003 : Testcase test_Login_003 is passed
+ 2024-08-16 14:36:53,257 : INFO : test_Login_003 : Taking screenshot
+ 2024-08-16 14:36:53,581 : INFO : test_Login_003 : Testcase test_Login_003 is completed
+
+ 2024-08-17 20:16:47,572 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is started
+ 2024-08-17 20:16:47,573 : INFO : test_BankApp_Url_001 : Opening Browser
+ 2024-08-17 20:16:47,573 : INFO : test_BankApp_Url_001 : Checking the title
+ 2024-08-17 20:16:47,617 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is Passed
+ 2024-08-17 20:16:47,617 : INFO : test_BankApp_Url_001 : Taking Screenshot
+ 2024-08-17 20:16:48,537 : INFO : test_BankApp_Url_001 : Testcase test_Login_001 is completed
+
+ 2024-08-17 20:16:56,436 : INFO : test_Signup_002 : test_Signup_002 is Started
+ 2024-08-17 20:16:56,436 : INFO : test_Signup_002 : Opening browser
+ 2024-08-17 20:16:56,436 : INFO : test_Signup_002 : Click on signup link
+ 2024-08-17 20:16:57,140 : INFO : test_Signup_002 : User7Mzkf4
+ 2024-08-17 20:16:57,402 : INFO : test_Signup_002 : Enter Password
+ 2024-08-17 20:16:57,583 : INFO : test_Signup_002 : UserR0jO7G@gmail.com
+ 2024-08-17 20:16:57,740 : INFO : test_Signup_002 : 7093003762
+ 2024-08-17 20:16:57,958 : INFO : test_Signup_002 : Click create user
+ 2024-08-17 20:17:10,145 : INFO : test_Login_003 : Testcase test_Login_003 is started
+ 2024-08-17 20:17:10,145 : INFO : test_Login_003 : Opening browser
+ 2024-08-17 20:17:10,145 : INFO : test_Login_003 : Click on Login link
+ 2024-08-17 20:17:11,494 : INFO : test_Login_003 : Entering the username
+ 2024-08-17 20:17:11,811 : INFO : test_Login_003 : Entering the password
+ 2024-08-17 20:17:12,178 : INFO : test_Login_003 : Click on login button
+ 2024-08-17 20:17:14,818 : INFO : test_Login_003 : Checking the page title
+ 2024-08-17 20:17:14,916 : INFO : test_Login_003 : Testcase test_Login_003 is passed
+ 2024-08-17 20:17:14,916 : INFO : test_Login_003 : Taking screenshot
+ 2024-08-17 20:17:15,206 : INFO : test_Login_003 : Testcase test_Login_003 is completed
+
+ 2024-08-17 20:20:18,519 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is started
+ 2024-08-17 20:20:18,520 : INFO : test_BankApp_Url_001 : Opening Browser
+ 2024-08-17 20:20:18,520 : INFO : test_BankApp_Url_001 : Checking the title
+ 2024-08-17 20:20:18,543 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is Passed
+ 2024-08-17 20:20:18,543 : INFO : test_BankApp_Url_001 : Taking Screenshot
+ 2024-08-17 20:20:18,830 : INFO : test_BankApp_Url_001 : Testcase test_Login_001 is completed
+
+ 2024-08-17 20:20:27,128 : INFO : test_Signup_002 : test_Signup_002 is Started
+ 2024-08-17 20:20:27,128 : INFO : test_Signup_002 : Opening browser
+ 2024-08-17 20:20:27,129 : INFO : test_Signup_002 : Click on signup link
+ 2024-08-17 20:20:28,445 : INFO : test_Signup_002 : UserqZLZ63
+ 2024-08-17 20:20:28,741 : INFO : test_Signup_002 : Enter Password
+ 2024-08-17 20:20:28,917 : INFO : test_Signup_002 : UserYTVbro@gmail.com
+ 2024-08-17 20:20:29,098 : INFO : test_Signup_002 : 1907587737
+ 2024-08-17 20:20:29,276 : INFO : test_Signup_002 : Click create user
+ 2024-08-17 20:20:39,696 : INFO : test_Login_003 : Testcase test_Login_003 is started
+ 2024-08-17 20:20:39,696 : INFO : test_Login_003 : Opening browser
+ 2024-08-17 20:20:39,696 : INFO : test_Login_003 : Click on Login link
+ 2024-08-17 20:20:40,707 : INFO : test_Login_003 : Entering the username
+ 2024-08-17 20:20:40,958 : INFO : test_Login_003 : Entering the password
+ 2024-08-17 20:20:41,201 : INFO : test_Login_003 : Click on login button
+ 2024-08-17 20:20:43,782 : INFO : test_Login_003 : Checking the page title
+ 2024-08-17 20:20:43,801 : INFO : test_Login_003 : Testcase test_Login_003 is passed
+ 2024-08-17 20:20:43,801 : INFO : test_Login_003 : Taking screenshot
+ 2024-08-17 20:20:44,121 : INFO : test_Login_003 : Testcase test_Login_003 is completed
+
+ 2024-08-18 21:27:34,029 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-18 21:27:34,030 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-18 21:27:34,031 : INFO : test_search_user_005 : Click on login link
+ 2024-08-18 21:27:34,700 : INFO : test_search_user_005 : Enter Username
+ 2024-08-18 21:27:35,332 : INFO : test_search_user_005 : Enter Password
+ 2024-08-18 21:27:35,511 : INFO : test_search_user_005 : click on login button
+ 2024-08-18 21:27:36,657 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-18 21:27:37,113 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-18 21:27:37,114 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-18 21:27:37,355 : INFO : test_search_user_005 : Enter Username searching
+ 2024-08-18 21:27:40,380 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-18 21:27:40,865 : INFO : test_search_user_005 : Validate Username
+ 2024-08-18 21:27:40,970 : INFO : test_search_user_005 : test_search_user_005 is passed
+ 2024-08-18 21:27:41,257 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-18 21:27:50,102 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-18 21:27:50,102 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-18 21:27:50,103 : INFO : test_search_user_005 : Click on login link
+ 2024-08-18 21:27:50,710 : INFO : test_search_user_005 : Enter Username
+ 2024-08-18 21:27:50,986 : INFO : test_search_user_005 : Enter Password
+ 2024-08-18 21:27:51,387 : INFO : test_search_user_005 : click on login button
+ 2024-08-18 21:27:53,312 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-18 21:27:54,116 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-18 21:27:54,116 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-18 21:27:54,306 : INFO : test_search_user_005 : Enter Username searching
+ 2024-08-18 21:27:57,327 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-18 21:27:57,863 : INFO : test_search_user_005 : Validate Username
+ 2024-08-18 21:27:57,970 : INFO : test_search_user_005 : test_search_user_005 is passed
+ 2024-08-18 21:27:58,233 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-18 21:28:14,650 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-18 21:28:14,651 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-18 21:28:14,651 : INFO : test_search_user_005 : Click on login link
+ 2024-08-18 21:28:15,957 : INFO : test_search_user_005 : Enter Username
+ 2024-08-18 21:28:16,231 : INFO : test_search_user_005 : Enter Password
+ 2024-08-18 21:28:16,385 : INFO : test_search_user_005 : click on login button
+ 2024-08-18 21:28:19,760 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-18 21:28:21,246 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-18 21:28:21,246 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-18 21:28:21,564 : INFO : test_search_user_005 : Enter Username searching
+ 2024-08-18 21:28:24,611 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-18 21:28:25,628 : INFO : test_search_user_005 : Validate Username
+ 2024-08-18 21:29:02,154 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-18 21:29:02,154 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-18 21:29:02,155 : INFO : test_search_user_005 : Click on login link
+ 2024-08-18 21:29:04,820 : INFO : test_search_user_005 : Enter Username
+ 2024-08-18 21:29:05,115 : INFO : test_search_user_005 : Enter Password
+ 2024-08-18 21:29:05,275 : INFO : test_search_user_005 : click on login button
+ 2024-08-18 21:29:10,218 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-18 21:29:11,869 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-18 21:29:11,870 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-18 21:29:12,398 : INFO : test_search_user_005 : Enter Username searching
+ 2024-08-18 21:29:15,416 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-18 21:29:17,551 : INFO : test_search_user_005 : Validate Username
+ 2024-08-18 21:29:17,623 : INFO : test_search_user_005 : test_search_user_005 is passed
+ 2024-08-18 21:29:17,870 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-18 21:29:35,069 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-18 21:29:35,069 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-18 21:29:35,070 : INFO : test_search_user_005 : Click on login link
+ 2024-08-18 21:29:35,796 : INFO : test_search_user_005 : Enter Username
+ 2024-08-18 21:29:36,323 : INFO : test_search_user_005 : Enter Password
+ 2024-08-18 21:29:36,547 : INFO : test_search_user_005 : click on login button
+ 2024-08-18 21:29:38,049 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-18 21:29:38,600 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-18 21:29:38,601 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-18 21:29:38,801 : INFO : test_search_user_005 : Enter Username searching
+ 2024-08-18 21:29:41,817 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-18 21:29:42,745 : INFO : test_search_user_005 : Validate Username
+ 2024-08-18 21:29:42,909 : INFO : test_search_user_005 : test_search_user_005 is failed
+ 2024-08-18 21:29:43,180 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-19 08:36:38,948 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-19 08:36:38,949 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-19 08:36:38,949 : INFO : test_search_user_005 : Click on login link
+ 2024-08-19 08:36:39,451 : INFO : test_search_user_005 : Enter Username
+ 2024-08-19 08:36:39,698 : INFO : test_search_user_005 : Enter Password
+ 2024-08-19 08:36:39,873 : INFO : test_search_user_005 : click on login button
+ 2024-08-19 08:36:41,079 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-19 08:36:41,555 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-19 08:36:41,556 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-19 08:36:41,802 : INFO : test_search_user_005 : Enter Username searching
+ 2024-08-19 08:36:44,817 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-19 08:36:45,246 : INFO : test_search_user_005 : Validate Username
+ 2024-08-19 08:36:45,324 : INFO : test_search_user_005 : test_search_user_005 is passed
+ 2024-08-19 08:36:45,629 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-19 08:36:55,733 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-19 08:36:55,734 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-19 08:36:55,734 : INFO : test_search_user_005 : Click on login link
+ 2024-08-19 08:36:57,115 : INFO : test_search_user_005 : Enter Username
+ 2024-08-19 08:36:57,372 : INFO : test_search_user_005 : Enter Password
+ 2024-08-19 08:36:57,562 : INFO : test_search_user_005 : click on login button
+ 2024-08-19 08:36:58,715 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-19 08:37:00,107 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-19 08:37:00,107 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-19 08:37:00,396 : INFO : test_search_user_005 : Enter Username searching
+ 2024-08-19 08:37:03,412 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-19 08:37:04,003 : INFO : test_search_user_005 : Validate Username
+ 2024-08-19 08:37:04,102 : INFO : test_search_user_005 : test_search_user_005 is passed
+ 2024-08-19 08:37:04,369 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-19 08:37:17,358 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-19 08:37:17,358 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-19 08:37:17,358 : INFO : test_search_user_005 : Click on login link
+ 2024-08-19 08:37:18,037 : INFO : test_search_user_005 : Enter Username
+ 2024-08-19 08:37:18,553 : INFO : test_search_user_005 : Enter Password
+ 2024-08-19 08:37:18,793 : INFO : test_search_user_005 : click on login button
+ 2024-08-19 08:37:21,145 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-19 08:37:22,127 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-19 08:37:22,127 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-19 08:37:22,359 : INFO : test_search_user_005 : Enter Username searching
+ 2024-08-19 08:37:25,379 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-19 08:37:25,880 : INFO : test_search_user_005 : Validate Username
+ 2024-08-19 08:37:46,028 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-19 08:37:46,029 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-19 08:37:46,030 : INFO : test_search_user_005 : Click on login link
+ 2024-08-19 08:37:46,909 : INFO : test_search_user_005 : Enter Username
+ 2024-08-19 08:37:47,255 : INFO : test_search_user_005 : Enter Password
+ 2024-08-19 08:37:47,388 : INFO : test_search_user_005 : click on login button
+ 2024-08-19 08:37:52,104 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-19 08:37:53,353 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-19 08:37:53,354 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-19 08:37:53,593 : INFO : test_search_user_005 : Enter Username searching
+ 2024-08-19 08:37:56,615 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-19 08:37:57,394 : INFO : test_search_user_005 : Validate Username
+ 2024-08-19 08:37:57,507 : INFO : test_search_user_005 : test_search_user_005 is passed
+ 2024-08-19 08:37:57,772 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-19 08:38:08,894 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-19 08:38:08,894 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-19 08:38:08,894 : INFO : test_search_user_005 : Click on login link
+ 2024-08-19 08:38:09,362 : INFO : test_search_user_005 : Enter Username
+ 2024-08-19 08:38:09,610 : INFO : test_search_user_005 : Enter Password
+ 2024-08-19 08:38:09,809 : INFO : test_search_user_005 : click on login button
+ 2024-08-19 08:38:11,073 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-19 08:38:11,549 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-19 08:38:11,549 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-19 08:38:11,727 : INFO : test_search_user_005 : Enter Username searching
+ 2024-08-19 08:38:14,738 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-19 08:38:15,522 : INFO : test_search_user_005 : Validate Username
+ 2024-08-19 08:38:15,646 : INFO : test_search_user_005 : test_search_user_005 is failed
+ 2024-08-19 08:38:15,933 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-20 09:17:40,083 : INFO : test_SearchUser_Excel_006 : test_search_user_006 is passed
+ 2024-08-20 09:17:40,424 : INFO : test_SearchUser_Excel_006 : Testcase test_Login_006 is completed
+
+ 2024-08-20 09:17:42,540 : INFO : test_SearchUser_Excel_006 : test_search_user_006 is passed
+ 2024-08-20 09:17:43,353 : INFO : test_SearchUser_Excel_006 : Testcase test_Login_006 is completed
+
+ 2024-08-20 09:32:57,584 : INFO : test_SearchUser_Excel_006 : test_search_user_006 is passed
+ 2024-08-20 09:32:57,852 : INFO : test_SearchUser_Excel_006 : Testcase test_Login_006 is completed
+
+ 2024-08-20 09:32:59,208 : INFO : test_SearchUser_Excel_006 : test_search_user_006 is passed
+ 2024-08-20 09:32:59,464 : INFO : test_SearchUser_Excel_006 : Testcase test_Login_006 is completed
+
+ 2024-08-20 09:33:00,949 : INFO : test_SearchUser_Excel_006 : test_search_user_006 is passed
+ 2024-08-20 09:33:01,167 : INFO : test_SearchUser_Excel_006 : Testcase test_Login_006 is completed
+
+ 2024-08-20 09:33:02,501 : INFO : test_SearchUser_Excel_006 : test_search_user_006 is failed
+ 2024-08-20 09:33:02,724 : INFO : test_SearchUser_Excel_006 : Testcase test_Login_006 is completed
+
+ 2024-08-20 09:33:04,158 : INFO : test_SearchUser_Excel_006 : test_search_user_006 is passed
+ 2024-08-20 09:33:04,445 : INFO : test_SearchUser_Excel_006 : Testcase test_Login_006 is completed
+
+ 2024-08-20 09:33:05,910 : INFO : test_SearchUser_Excel_006 : test_search_user_006 is passed
+ 2024-08-20 09:33:06,130 : INFO : test_SearchUser_Excel_006 : Testcase test_Login_006 is completed
+
+ 2024-08-20 15:11:07,604 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-20 15:11:07,690 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-20 15:11:07,691 : INFO : test_search_user_005 : Click on login link
+ 2024-08-20 15:11:07,641 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-20 15:11:07,795 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-20 15:11:07,795 : INFO : test_search_user_005 : Click on login link
+ 2024-08-20 15:11:08,102 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-20 15:11:08,102 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-20 15:11:08,103 : INFO : test_search_user_005 : Click on login link
+ 2024-08-20 15:11:09,513 : INFO : test_search_user_005 : Enter Username
+ 2024-08-20 15:11:10,091 : INFO : test_search_user_005 : Enter Username
+ 2024-08-20 15:11:10,096 : INFO : test_search_user_005 : Enter Username
+ 2024-08-20 15:11:10,888 : INFO : test_search_user_005 : Enter Password
+ 2024-08-20 15:11:11,220 : INFO : test_search_user_005 : click on login button
+ 2024-08-20 15:11:11,414 : INFO : test_search_user_005 : Enter Password
+ 2024-08-20 15:11:11,418 : INFO : test_search_user_005 : Enter Password
+ 2024-08-20 15:11:11,688 : INFO : test_search_user_005 : click on login button
+ 2024-08-20 15:11:12,281 : INFO : test_search_user_005 : click on login button
+ 2024-08-20 15:11:12,945 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-20 15:11:13,188 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-20 15:11:13,496 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-20 15:11:13,497 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-20 15:11:14,743 : INFO : test_search_user_005 : Entering the Username for searching
+ 2024-08-20 15:11:14,805 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-20 15:11:14,838 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-20 15:11:14,839 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-20 15:11:15,376 : INFO : test_search_user_005 : Entering the Username for searching
+ 2024-08-20 15:11:15,770 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-20 15:11:15,771 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-20 15:11:16,719 : INFO : test_search_user_005 : Entering the Username for searching
+ 2024-08-20 15:11:17,837 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-20 15:11:18,465 : INFO : test_search_user_005 : Validate Username
+ 2024-08-20 15:11:18,714 : INFO : test_search_user_005 : test_search_user_005 is passed
+ 2024-08-20 15:11:18,862 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-20 15:11:19,742 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-20 15:11:19,781 : INFO : test_search_user_005 : Validate Username
+ 2024-08-20 15:11:19,997 : INFO : test_search_user_005 : test_search_user_005 is passed
+ 2024-08-20 15:11:20,593 : INFO : test_search_user_005 : Validate Username
+ 2024-08-20 15:11:20,744 : INFO : test_search_user_005 : test_search_user_005 is failed
+ 2024-08-20 15:11:20,790 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-20 15:11:20,814 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-20 15:11:21,191 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-20 15:11:47,589 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-20 15:11:47,590 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-20 15:11:47,590 : INFO : test_search_user_005 : Click on login link
+ 2024-08-20 15:11:49,493 : INFO : test_search_user_005 : Enter Username
+ 2024-08-20 15:11:50,637 : INFO : test_search_user_005 : test_search_user_005 is started
+ 2024-08-20 15:11:50,638 : INFO : test_search_user_005 : Opening the browser
+ 2024-08-20 15:11:50,638 : INFO : test_search_user_005 : Click on login link
+ 2024-08-20 15:11:51,544 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is started
+ 2024-08-20 15:11:51,545 : INFO : test_BankApp_Url_001 : Opening Browser
+ 2024-08-20 15:11:51,545 : INFO : test_BankApp_Url_001 : Checking the title
+ 2024-08-20 15:11:51,666 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is Passed
+ 2024-08-20 15:11:51,667 : INFO : test_BankApp_Url_001 : Taking Screenshot
+ 2024-08-20 15:11:52,196 : INFO : test_BankApp_Url_001 : Testcase test_Login_001 is completed
+
+ 2024-08-20 15:11:53,427 : INFO : test_search_user_005 : Enter Password
+ 2024-08-20 15:11:53,453 : INFO : test_search_user_005 : Enter Username
+ 2024-08-20 15:11:54,178 : INFO : test_search_user_005 : click on login button
+ 2024-08-20 15:11:54,356 : INFO : test_search_user_005 : Enter Password
+ 2024-08-20 15:11:54,706 : INFO : test_search_user_005 : click on login button
+ 2024-08-20 15:11:55,217 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-20 15:11:56,129 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-20 15:11:56,129 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-20 15:11:56,367 : INFO : test_search_user_005 : Entering the Username for searching
+ 2024-08-20 15:11:56,997 : INFO : test_search_user_005 : Click on User management link
+ 2024-08-20 15:11:57,842 : INFO : test_search_user_005 : Searching the username 
+ 2024-08-20 15:11:57,842 : INFO : test_search_user_005 : Getting Expected Result
+ 2024-08-20 15:11:59,382 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-20 15:12:00,244 : INFO : test_search_user_005 : Entering the Username for searching
+ 2024-08-20 15:12:01,667 : INFO : test_search_user_005 : Validate Username
+ 2024-08-20 15:12:01,906 : INFO : test_search_user_005 : test_search_user_005 is passed
+ 2024-08-20 15:12:02,224 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-20 15:12:03,292 : INFO : test_search_user_005 : Clicking On search Button
+ 2024-08-20 15:12:04,352 : INFO : test_search_user_005 : Validate Username
+ 2024-08-20 15:12:04,726 : INFO : test_search_user_005 : test_search_user_005 is passed
+ 2024-08-20 15:12:06,906 : INFO : test_search_user_005 : Testcase test_Login_003 is completed
+
+ 2024-08-20 15:12:24,899 : INFO : test_Login_003 : Testcase test_Login_003 is started
+ 2024-08-20 15:12:24,902 : INFO : test_Login_003 : Opening browser
+ 2024-08-20 15:12:24,903 : INFO : test_Login_003 : Click on Login link
+ 2024-08-20 15:12:25,638 : INFO : test_Login_003 : Entering the username
+ 2024-08-20 15:12:26,502 : INFO : test_Login_003 : Entering the password
+ 2024-08-20 15:12:26,703 : INFO : test_Login_003 : Click on login button
+ 2024-08-20 15:12:28,713 : INFO : test_Login_003 : Checking the page title
+ 2024-08-20 15:12:28,744 : INFO : test_Login_003 : Testcase test_Login_003 is passed
+ 2024-08-20 15:12:28,744 : INFO : test_Login_003 : Taking screenshot
+ 2024-08-20 15:12:29,134 : INFO : test_Login_003 : Testcase test_Login_003 is completed
+
+ 2024-08-20 15:12:36,013 : INFO : test_Signup_002 : test_Signup_002 is Started
+ 2024-08-20 15:12:36,013 : INFO : test_Signup_002 : Opening browser
+ 2024-08-20 15:12:36,013 : INFO : test_Signup_002 : Click on signup link
+ 2024-08-20 15:12:37,224 : INFO : test_Signup_002 : UserF2OUSG
+ 2024-08-20 15:12:37,959 : INFO : test_Signup_002 : Enter Password
+ 2024-08-20 15:12:38,870 : INFO : test_Signup_002 : Userkf6GZl@gmail.com
+ 2024-08-20 15:12:40,260 : INFO : test_Signup_002 : 0576186012
+ 2024-08-20 15:12:40,856 : INFO : test_Signup_002 : Click create user
+ 2024-08-24 12:13:42,078 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is started
+ 2024-08-24 12:13:42,083 : INFO : test_BankApp_Url_001 : Opening Browser
+ 2024-08-24 12:13:42,086 : INFO : test_BankApp_Url_001 : Checking the title
+ 2024-08-24 12:13:42,124 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is Passed
+ 2024-08-24 12:13:42,124 : INFO : test_BankApp_Url_001 : Taking Screenshot
+ 2024-08-24 12:13:42,732 : INFO : test_BankApp_Url_001 : Testcase test_Login_001 is completed
+
+ 2024-08-24 12:52:55,064 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is started
+ 2024-08-24 12:52:55,065 : INFO : test_BankApp_Url_001 : Opening Browser
+ 2024-08-24 12:52:55,065 : INFO : test_BankApp_Url_001 : Checking the title
+ 2024-08-24 12:52:55,090 : INFO : test_BankApp_Url_001 : test_BankApp_Url_001 is Passed
+ 2024-08-24 12:52:55,090 : INFO : test_BankApp_Url_001 : Taking Screenshot
+ 2024-08-24 12:52:55,453 : INFO : test_BankApp_Url_001 : Testcase test_Login_001 is completed
+

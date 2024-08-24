@@ -1,0 +1,1 @@
+[31mCRITICAL[0m Test_Orange_HRM:test_OrangeHRM_Login.py:47 test_Orange_Hrm_Login_002 is started
